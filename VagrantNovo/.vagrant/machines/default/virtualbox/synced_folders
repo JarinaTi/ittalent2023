@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"C:/VagrantNovo/buxo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/VagrantNovo","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant_data":{"guestpath":"/vagrant_data","hostpath":"C:/ittalent2023/VagrantNovo/buxo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/ittalent2023/VagrantNovo","disabled":false,"__vagrantfile":true}}}
