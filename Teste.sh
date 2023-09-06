@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-#Este é meu primeiro script 
+#Questao Olá,Mundo!
+echo "Olá,Mundo!"
+
+#Questao Olá,Mundo!
 echo "Qual é seu nome?"
 read nome
 echo "olá, $nome! Bem-vindo ao Shell Script!"
